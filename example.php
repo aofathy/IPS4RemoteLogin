@@ -3,7 +3,7 @@
  * @author 		Sijad aka Mr.Wosi
  * @link		  <a href='http://skinod.com'>Skinod.com</a>
  * @copyright	2015 <a href='http://skinod.com'>Skinod.com</a>
- * MODIFIED BY AHMED FATHY (AOFATHY) FOR SERVERS WITH allow_url_fopen DISABLED, USING cURL
+ * @modified  AHMED FATHY (AOFATHY) FOR SERVERS WITH allow_url_fopen DISABLED, USING cURL
  */
 
 //Configuration
